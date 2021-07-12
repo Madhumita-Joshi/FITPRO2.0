@@ -1,0 +1,115 @@
+.nav {
+		background-color: white;
+		color: #005F40;
+		font-family: 'Nexa Regular', helvetica, arial, sans-serif;
+		font-size: 18px;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+	}
+      body
+      {
+      background-image: url("booking1.jpg");
+	    height: 150vh;
+
+      background-repeat:no-repeat;
+      background-size: cover;
+      background-position: center;
+      opacity:95%;
+      }
+	button {
+		color: #4d4751;
+		font-family: 'Nexa Regular', helvetica, arial, sans-serif;
+		font-size: 18px;
+		border: none;
+		background: white;
+		width: 170px;
+		text-align: center;
+		display: inline-block;
+	}
+
+	.button:hover {
+		color: #005F40;
+	}
+
+	.button2 {
+		color: #E6E6FA;
+		background: #005F40;
+		font-family: 'Nexa Regular', helvetica, arial, sans-serif;
+		font-size: 17px;
+		text-align: center;
+		width: 338px;
+		height: 54px;
+		display: inline-block;
+		border: none;
+	}
+
+	.button2:hover {
+		color: white;
+	}
+
+      .text {
+      position:absolute;
+      left:4%;
+      font-size:55px;
+      top:55%;
+      color:white;
+      font-family:roboto;
+      background-color:#005F40;
+      padding:2%;
+      padding-left:3%;
+      padding-right:3%;
+	  text-align: right;
+      }
+
+.button1 {
+     background-color:#005F40;
+     border: none;
+     width:160px;
+     color:white;
+     padding: 10px 28px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     border-radius: 5px;
+  }
+.button1:hover {
+  background-color: green;
+  color: white;
+}
+
+.btnAddAction {
+    margin-left: 5px;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+
+.footer{
+	 position:absolute;
+	 width: 100%;
+	 height:100px;
+	 background-color:#005F40;
+	 color:white;
+	 font-size:14px;
+	 top:150%;
+}
+.item{
+  background-color: #005F40;
+  border-radius:10px;
+  position:relative;left:50%;
+  padding-right:75px;
+
+}
+
+.ad{
+font-family: 'Nexa Regular', helvetica, arial, sans-serif;
+color:white;
+font-size: 15px;
+border-radius:10px;
+background-color: #005F40;
+position:relative;left:12%;
+float:right;
+}
